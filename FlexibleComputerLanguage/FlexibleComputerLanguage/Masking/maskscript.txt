@@ -1,0 +1,13 @@
+$RESULT.SetCustomString(normal)
+$RESULT.SetRValue(4)
+$RESULT.GetStringVar:=RESULTSTRING
+$RESULTSTRING.AddPostFix($X.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.RightSibling.FirstChild.FirstChild.FirstChild.GetValue)
+$RESULTSTRING.AddPostFix(|BeforeFunc|)
+
+$Y.SetValue(TEST_SUITE)
+{$X,$Y}:=FUNCARG
+MaskFunction($FUNCARG)
+
+$RESULTSTRING.AddPostFix($X.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.RightSibling.FirstChild.FirstChild.FirstChild.GetValue)
+$RESULTSTRING.AddPostFix(|AfterFunc|)
+$RESULT.SetValue($RESULTSTRING)

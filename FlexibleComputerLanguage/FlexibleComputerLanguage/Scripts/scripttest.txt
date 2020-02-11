@@ -1,0 +1,33 @@
+Function:=MaskTestSuite
+	$ARG.SeekToBegin
+	$ARG.GetCurrentElement:=THENODE
+	$THENODE.SetValue(DummyFunctionName)
+EndFunction
+
+$RESULT.SetCustomString(normal)
+$RESULT.SetRValue(4)
+$RESULT.GetStringVar:=RESULTSTRING
+$RESULTSTRING.AddPostFix($X.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.RightSibling.FirstChild.FirstChild.FirstChild.GetValue)
+$RESULTSTRING.AddPostFix(|BeforeFunc|)
+
+$X.FilterSubtree($Item.GetValue.IsStringEqualTo(TEST_SUITE)):=LIST
+$LIST.SeekToBegin()
+$LIST.GetCurrentElement:=ELEM
+While($ELEM.CheckNotNull)
+$ELEM.FirstChild.FirstChild.GetValue:=testSuiteName
+$X.FilterSubtree($Item.GetValue.IsHavingSubstring($testSuiteName)):=LIST2
+$LIST2.SeekToBegin()
+$LIST2.GetCurrentElement:=ELEM2		
+
+	$RESULTSTRING.AddPostFix(||)
+	//{$ELEM2}:=FUNCARG
+	//MaskTestSuite($FUNCARG)
+	$ELEM2.SetValue(DummyFunctionName)
+	$RESULTSTRING.AddPostFix($ELEM2.GetValue)
+	$RESULTSTRING.AddPostFix(||)
+	$LIST.GetNextElement:=ELEM
+Do
+			
+//$RESULTSTRING.AddPostFix($X.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.FirstChild.RightSibling.RightSibling.FirstChild.FirstChild.FirstChild.GetValue)
+$RESULTSTRING.AddPostFix(|AfterFunc|)
+$RESULT.SetValue($RESULTSTRING)

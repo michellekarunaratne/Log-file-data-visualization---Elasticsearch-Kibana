@@ -1,0 +1,5 @@
+$X.SetValue(52)
+$Y.SetValue(20)
+If($X.GetValue.IsStringEqualTo(52))
+	$X.SetValue(18)
+EndIf

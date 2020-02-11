@@ -1,0 +1,15 @@
+// Read the Jenkins log file
+$X.ReadFromFile(/Users/dileepa/Dileepa/WorkDir/LogAnalyzer/tests/test4/JenkinsLog.txt)
+
+// split to lines
+$X.Expand({@NEWLINE})
+
+// extract the lines that contain test case data
+$X.Children:=LINES
+$LINES.SeekToBegin
+$LINES.GetCurrentElement:=LINE
+While($LINE.IsNotNull)
+	
+	$LINES.Seek(#1)
+	$LINES.GetCurrentElement:=LINE
+Do

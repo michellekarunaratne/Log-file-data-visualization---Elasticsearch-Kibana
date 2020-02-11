@@ -1,0 +1,64 @@
+// Read the Application Verifer log file
+$X.ReadFromFile(D:\Msc Project\AppQualityAnalyzer\ICIAfS conference\POC2\unit tests\test1\AppVerifierLog.txt)
+
+// First get the xml def line out
+$X.Expand({<?,?>})
+
+// Now there should be two childs for X
+// First one is the xml definition line. Second one is the rest of the text
+$X.Children=FLC
+$FLC.SeekToBegin
+$FLC.Seek(1)
+$FLC.GetCurrentElement=INFO
+$INFO.GetValue=VAL
+$VAL.TrimLeft
+$VAL.TrimRight
+$INFO.SetValue($VAL)
+$INFO.Expand(<avrf:logfile,</avrf:logfile>,<avrf:logSession,</avrf:logSession>)
+$INFO.Children=SLC
+$SLC.SeekToBegin
+$SLC.GetCurrentElement=ELEM
+
+While($ELEM.IsNotNull)
+	If($ELEM.GetLValue.IsStringEqualTo(<avrf:logSession).And($ELEM.GetRValue.IsStringEqualTo(</avrf:logSession>)))
+		$ELEM.GetValue.TrimLeft
+		$ELEM.GetValue.TrimRight
+		$ELEM.Expand({<avrf:logEntry,</avrf:logEntry>})
+		$ELEM.Children=TLC
+		$TLC.SeekToBegin
+		$TLC.GetCurrentElement=SESSION
+		$TLC.Seek(#1)
+		$TLC.GetCurrentElement=ELEM2
+		While($ELEM2.IsNotNull)
+			$Y.AddNode=LOGENTRY
+			$ELEM2.Expand({<avrf:message>,</avrf:message>,<avrf:formatmessage>,</avrf:formatmessage>,<avrf:parameter,</avrf:parameter,<avrf:stackTrace>,</avrf:stackTrace>})
+			$ELEM2.Children=FOLC
+			$FOLC.SeekToBegin
+			$FOLC.GetCurrentElement=ELEM3
+			$ELEM3.GetValue=VAL
+			$VAL.TrimLeft
+			$VAL.TrimRight
+			$ELEM3.SetValue($VAL)
+			$LOGENTRY.AddNode=LOGENTRYHEADER
+			$LOGENTRYHEADER.SetType(#100)
+			$LOGENTRYHEADER.SetValue($VAL)
+			$FOLC.Seek(#1)
+			$FOLC.GetCurrentElement=ELEM3
+			While($ELEM3.IsNotNull)
+				If($ELEM3.GetLValue.IsStringEqualTo(<avrf:message>))
+					$LOGENTRY.AddNode=MESSAGE
+					$MESSAGE.SetValue($ELEM3.GetValue)
+					$MESSAGE.SetType(#101)
+				EndIf
+				$FOLC.Seek(#1)
+				$FOLC.GetCurrentElement=ELEM3
+			Do
+
+			$TLC.Seek(#1)
+			$TLC.GetCurrentElement=ELEM2
+		Do
+	EndIf
+
+	$SLC.Seek(#1)
+	$SLC.GetCurrentElement=ELEM	
+Do

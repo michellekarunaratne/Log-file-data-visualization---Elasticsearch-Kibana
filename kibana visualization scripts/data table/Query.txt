@@ -1,0 +1,26 @@
+$RESULT.SetAttributes({$Array})
+$X.TEST_START:=Result
+$Result.SeekToBegin
+$Result.GetCurrentElement:=ELEM
+While($ELEM.CheckNotNull)
+If($ELEM.Parent.GetValue.IsHavingSubstring(VARIABLE SEQUENCE))
+$RESULT.AddNode:=TESTSUITE_NODE
+$TESTSUITE_NODE.SetAttributes({$Array})
+$TESTSUITE_NODE.AddNode:=TEST_SUITE_NAME
+$TEST_SUITE_NAME.SetAttributes({$Normal,$String})
+$TESTSUITE_NODE.AddNode:=TEST_CASE_NAME
+$TEST_CASE_NAME.SetAttributes({$Normal,$String})
+$ELEM.Parent.TEST_SUITE:=LIST
+$ELEM.Parent.TEST:=LIST1
+$LIST.SeekToBegin
+$LIST.GetCurrentElement:=ELEM1
+$LIST1.SeekToBegin
+$LIST1.GetCurrentElement:=ELEM2
+$TEST_SUITE_NAME.SetValue($ELEM1.FirstChild.FirstChild.GetValue)
+$TEST_CASE_NAME.SetValue($ELEM2.FirstChild.FirstChild.GetValue)
+$LIST1.GetNextElement:=ELEM2
+$LIST.GetNextElement:=ELEM1
+EndIf
+$Result.GetNextElement:=ELEM
+Do
+

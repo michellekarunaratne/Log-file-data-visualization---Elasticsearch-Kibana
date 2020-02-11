@@ -1,0 +1,50 @@
+[
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testThatClassExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testapiIdentifiers__propertyExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testapiIdentifiers_whenObjectCreatedThroughDI_propertyInjectedProperly"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testhandleApiNoifications__methodExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testhandleApiNoifications_calledWithNullRequest_doesNotThrow"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testhandleApiNoifications_calledWithNullResult_doesNotThrow"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testnotificationTranslations_propertyExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests",
+        "Test_Case_Name": "testnotificationTranslations_whenObjectCreatedThroughDI_propertyInjectedProperly"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests1",
+        "Test_Case_Name": "testThatClassExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests1",
+        "Test_Case_Name": "testapiIdentifiers__propertyExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests2",
+        "Test_Case_Name": "testThatClassExists"
+    },
+    {
+        "Test_Suite_Name": "ApiNotificationManagerTests2",
+        "Test_Case_Name": "testapiIdentifiers__propertyExists"
+    }
+]

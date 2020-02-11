@@ -1,0 +1,16 @@
+2 errors
+
+LuaPriv : 2
+======================================================================
+
+Time : 2010-09-21 : 22:53:20
+Stop Code : 0x33FF
+Message : Information: LUAPriv version.
+Format Message : LUAPriv version: 1.0
+
+Time : 2010-09-21 : 22:53:20
+Stop Code : 0x333A
+Message : Information: Application file name.
+Format Message : C:\Program Files (x86)\firstobject\foxe.exe
+
+0 warnings

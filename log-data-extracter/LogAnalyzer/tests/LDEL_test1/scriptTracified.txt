@@ -1,0 +1,29 @@
+// Variable definitions
+$FIRST_NAME = $(STRING)
+$FIRST_NAME1 = $(STRING)
+$USER = $(STRING)
+$DOMAIN = $(STRING)
+
+$YEAR = $(NUMBER)
+$MONTH = $(NUMBER)
+$DATE = $(NUMBER)
+$HOUR = $(NUMBER)
+$MINUTE = $(NUMBER)
+$SECONDS = $(NUMBER)
+$ZONE = $(NUMBER)
+
+$MESSAGE = $(STRING)
+$EMAIL = [$USER,'.',$DOMAIN]
+$TIMESTAMP=[$YEAR,'-',$MONTH,'-',$DATE,'T',$HOUR,':',$MINUTE,':',$SECONDS,'.',$ZONE,'Z']
+
+// Line template definitions
+$$ACCOUNT_CREATED = ['{"level":"debug","message":"',$MESSAGE,':New FeildOfficer account has been created(',$FIRST_NAME,'):',$FIRST_NAME,'","timestamp":"',$TIMESTAMP,'"}']
+$$ACCOUNT_DISABLED = ['{"level":"debug","message":"',$MESSAGE,':',$FIRST_NAME,' account disabled.:',$EMAIL,'","timestamp":"',$TIMESTAMP,'"}']
+
+$$ACCOUNT_ENABLED1 = ['{"level":"debug","message":"',$MESSAGE,':',$FIRST_NAME,' account enabled.:U2FsdGVkX1+iFPrWwcaTF22e69vbK8OHIt3vr1b/m2EWb/KJXfbiogTDG31Iv/l4","timestamp":"',$TIMESTAMP,'"}']
+$$ACCOUNT_ENABLED2 = ['{"level":"debug","message":"',$MESSAGE,':',$FIRST_NAME,' account enabled.:U2FsdGVkX19ULH3it58rJ+FkFYZG/80KQdKbgHWAc1jOyfEfo+0KLXybhbOED515","timestamp":"',$TIMESTAMP,'"}']
+
+$$ACCOUNT_PASSWORD_CHANGED = ['{"level":"debug","message":"',$MESSAGE,':',$FIRST_NAME,' account password has changed.:',$FIRST_NAME,'","timestamp":"',$TIMESTAMP,'"}']
+$$NEW_ACCOUNT_CREATED = ['{"level":"debug","message":"',$MESSAGE,':New account created for ',$EMAIL,'.:',$FIRST_NAME,'","timestamp":"',$TIMESTAMP,'"}']
+
+$$NONEMPTY_LINE = [$(TEXT)]

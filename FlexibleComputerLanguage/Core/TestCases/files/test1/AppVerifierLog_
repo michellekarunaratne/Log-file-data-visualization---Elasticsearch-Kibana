@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<avrf:logfile xmlns:avrf="Application Verifier">
+	<avrf:logSession TimeStarted="2010-09-21 : 22:53:19" PID="8208" Version="2">
+		<avrf:logEntry Time="2010-09-21 : 22:53:20" LayerName="LuaPriv" StopCode="0x33FF" Severity="Information">
+			<avrf:message>Information: LUAPriv version.</avrf:message>
+			<avrf:formatmessage>LUAPriv version: 1.0</avrf:formatmessage>
+			<avrf:parameter1>1 - Version major</avrf:parameter1>
+			<avrf:parameter2>0 - Version minor</avrf:parameter2>
+			<avrf:parameter3>0 - n/a</avrf:parameter3>
+			<avrf:parameter4>0 - n/a</avrf:parameter4>
+		</avrf:logEntry>
+		<avrf:logEntry Time="2010-09-21 : 22:53:20" LayerName="LuaPriv" StopCode="0x333A" Severity="Information">
+			<avrf:message>Information: Application file name.</avrf:message>
+			<avrf:formatmessage>C:\Program Files (x86)\firstobject\foxe.exe</avrf:formatmessage>
+			<avrf:parameter1>18f2d4 - File Name</avrf:parameter1>
+			<avrf:parameter2>0 - n/a</avrf:parameter2>
+			<avrf:parameter3>0 - n/a</avrf:parameter3>
+			<avrf:parameter4>0 - n/a</avrf:parameter4>
+			<avrf:stackTrace>
+				<avrf:trace>vfluapriv!+6377811e ( @ 0)</avrf:trace>
+				<avrf:trace>vfluapriv!+63778d93 ( @ 0)</avrf:trace>
+				<avrf:trace>vfluapriv!+6377f58f ( @ 0)</avrf:trace>
+			</avrf:stackTrace>
+		</avrf:logEntry>
+	</avrf:logSession>
+</avrf:logfile>

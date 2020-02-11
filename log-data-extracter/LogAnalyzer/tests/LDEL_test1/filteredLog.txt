@@ -1,0 +1,18 @@
+Test Suite '/Users/Shared/Jenkins/Home/jobs/PagePlanner/workspace/Build/Products/Debug/PagePlannerTests.octest(Tests)' started at 2013-07-07 22:01:41 +0000
+Test Suite 'ApiNotificationManagerTests' started at 2013-07-07 22:01:41 +0000
+Test Case '-[ApiNotificationManagerTests testapiIdentifiers__propertyExists]' started.
+warning in test case 
+Test Case '-[ApiNotificationManagerTests testapiIdentifiers__propertyExists]' passed (0.000 seconds).
+Test Case '-[ApiNotificationManagerTests testThatClassExists]' started.
+Test Case '-[ApiNotificationManagerTests testThatClassExists]' failed (0.000 seconds).
+Test Suite 'ApiNotificationManagerTests' finished at 2013-07-07 22:01:41 +0000.
+Executed 8 tests, with 0 failures (0 unexpected) in 0.001 (0.002) seconds
+Test Suite '/Users/Shared/Jenkins/Home/jobs/PagePlanner/workspace/Build/Products/Debug/PagePlannerTests.octest(Tests)' started at 2013-07-07 22:01:41 +0000
+Test Suite 'ApiNotificationManagerTests1' started at 2013-07-07 22:01:41 +0000
+Test Case '-[ApiNotificationManagerTests1 testapiIdentifiers__propertyExists]' started.
+Test Case '-[ApiNotificationManagerTests1 testapiIdentifiers__propertyExists]' passed (0.000 seconds).
+Test Case '-[ApiNotificationManagerTests1 testThatClassExists]' started.
+Test Case '-[ApiNotificationManagerTests1 testThatClassExists]' failed (0.000 seconds).
+Test Suite 'ApiNotificationManagerTests1' finished at 2013-07-07 22:01:41 +0000.
+Executed 8 tests, with 0 failures (0 unexpected) in 0.001 (0.002) seconds
+
