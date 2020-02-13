@@ -1089,8 +1089,7 @@ PENTITY Command::ExecuteNodeCommand(MULONG ulCommand, PENTITY pEntity, Execution
                         LST_STR lstTokens;
                         EntityList::const_iterator ite1 = pStrListArg->begin();
                         EntityList::const_iterator iteEnd1 = pStrListArg->end();
-                        for( ; ite1 != iteEnd1; ++ite1)
-                        {
+                         for( ; ite1 != iteEnd1; ++ite1){
                             MSTRING val=((PNODE)(*ite1))->GetValue();
                             if(val=="normal"){
                                 pNode->SetCustomString("normal");
@@ -1103,15 +1102,19 @@ PENTITY Command::ExecuteNodeCommand(MULONG ulCommand, PENTITY pEntity, Execution
                             }
                             if(val=="1"){
                                 pNode->SetRValue("1");
+                                pNode->SetLValue("1");
                             }
                             if(val=="2"){
                                 pNode->SetRValue("2");
+                                pNode->SetLValue("2");
                             }
                             if(val=="3"){
                                 pNode->SetRValue("3");
+                                pNode->SetLValue("3");
                             }
                             if(val=="4"){
                                 pNode->SetRValue("4");
+                                pNode->SetLValue("4");
                             }
                         }
                     }
