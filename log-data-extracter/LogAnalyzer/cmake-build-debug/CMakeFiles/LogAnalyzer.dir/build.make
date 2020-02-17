@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer"
+CMAKE_SOURCE_DIR = D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug"
+CMAKE_BINARY_DIR = D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LogAnalyzer.dir/depend.make
@@ -59,646 +59,646 @@ include CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.obj: ../LDEL/ELBasicVariableParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELBasicVariableParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBasicVariableParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBasicVariableParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.obj: ../LDEL/ELBlockElement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockElement.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockElement.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockElement.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.obj: ../LDEL/ELBlockTemplate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplate.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplate.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplate.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.obj: ../LDEL/ELBlockTemplateParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELBlockTemplateParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELBlockTemplateParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELBlockTemplateParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.obj: ../LDEL/ELCompositeVariableParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELCompositeVariableParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELCompositeVariableParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELCompositeVariableParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.obj: ../LDEL/ELConstantString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELConstantString.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELConstantString.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELConstantString.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.obj: ../LDEL/ELFillerString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELFillerString.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFillerString.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFillerString.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.obj: ../LDEL/ELFloat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELFloat.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELFloat.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELFloat.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.obj: ../LDEL/ELInterpretedElement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretedElement.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretedElement.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretedElement.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.obj: ../LDEL/ELInterpretter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretter.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretter.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretter.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.obj: ../LDEL/ELInterpretterJSON.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELInterpretterJSON.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELInterpretterJSON.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELInterpretterJSON.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.obj: ../LDEL/ELJSON.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELJSON.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELJSON.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELJSON.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.obj: ../LDEL/ELLineParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.obj: ../LDEL/ELLineParserResult.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELLineParserResult.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineParserResult.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineParserResult.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.obj: ../LDEL/ELLineTemplate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplate.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplate.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplate.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.obj: ../LDEL/ELLineTemplateParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELLineTemplateParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLineTemplateParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLineTemplateParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.obj: ../LDEL/ELListParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELListParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELListParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELListParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.obj: ../LDEL/ELNodeWrapper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapper.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapper.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapper.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.obj: ../LDEL/ELNodeWrapperJSON.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELNodeWrapperJSON.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNodeWrapperJSON.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNodeWrapperJSON.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.obj: ../LDEL/ELNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELNumber.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELNumber.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELNumber.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.obj: ../LDEL/ELParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.obj: ../LDEL/ELParserResult.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELParserResult.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELParserResult.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELParserResult.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.obj: ../LDEL/ELSequenceBlockElement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceBlockElement.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceBlockElement.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceBlockElement.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.obj: ../LDEL/ELSequenceVar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELSequenceVar.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSequenceVar.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSequenceVar.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.obj: ../LDEL/ELSingularBlockElement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELSingularBlockElement.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSingularBlockElement.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSingularBlockElement.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.obj: ../LDEL/ELSpacesString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELSpacesString.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELSpacesString.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELSpacesString.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.obj: ../LDEL/ELString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELString.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELString.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELString.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.obj: ../LDEL/ELStringLiteralParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELStringLiteralParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELStringLiteralParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELStringLiteralParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.obj: ../LDEL/ELText.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELText.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELText.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELText.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.obj: ../LDEL/ELVariable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELVariable.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariable.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariable.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.obj: ../LDEL/ELVariableParser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELVariableParser.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELVariableParser.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELVariableParser.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.obj: ../LDEL/ELLogFileFilter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp" > CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp > CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/LDEL/ELLogFileFilter.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp" -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\LDEL\ELLogFileFilter.cpp -o CMakeFiles\LogAnalyzer.dir\LDEL\ELLogFileFilter.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/Bool.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/Bool.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/Bool.cpp.obj: ../Bool.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LogAnalyzer.dir/Bool.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Bool.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Bool.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LogAnalyzer.dir/Bool.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Bool.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Bool.cpp
 
 CMakeFiles/LogAnalyzer.dir/Bool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/Bool.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Bool.cpp" > CMakeFiles\LogAnalyzer.dir\Bool.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Bool.cpp > CMakeFiles\LogAnalyzer.dir\Bool.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/Bool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/Bool.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Bool.cpp" -o CMakeFiles\LogAnalyzer.dir\Bool.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Bool.cpp -o CMakeFiles\LogAnalyzer.dir\Bool.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/Command.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/Command.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/Command.cpp.obj: ../Command.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LogAnalyzer.dir/Command.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Command.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Command.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LogAnalyzer.dir/Command.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Command.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Command.cpp
 
 CMakeFiles/LogAnalyzer.dir/Command.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/Command.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Command.cpp" > CMakeFiles\LogAnalyzer.dir\Command.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Command.cpp > CMakeFiles\LogAnalyzer.dir\Command.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/Command.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/Command.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Command.cpp" -o CMakeFiles\LogAnalyzer.dir\Command.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Command.cpp -o CMakeFiles\LogAnalyzer.dir\Command.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.obj: ../CPlusPlusEntry.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp
 
 CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp" > CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp > CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/CPlusPlusEntry.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp" -o CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\CPlusPlusEntry.cpp -o CMakeFiles\LogAnalyzer.dir\CPlusPlusEntry.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.obj: ../DefFileReader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\DefFileReader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\DefFileReader.cpp
 
 CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\DefFileReader.cpp" > CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\DefFileReader.cpp > CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/DefFileReader.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\DefFileReader.cpp" -o CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\DefFileReader.cpp -o CMakeFiles\LogAnalyzer.dir\DefFileReader.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/EntityList.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/EntityList.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/EntityList.cpp.obj: ../EntityList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LogAnalyzer.dir/EntityList.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\EntityList.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\EntityList.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LogAnalyzer.dir/EntityList.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\EntityList.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\EntityList.cpp
 
 CMakeFiles/LogAnalyzer.dir/EntityList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/EntityList.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\EntityList.cpp" > CMakeFiles\LogAnalyzer.dir\EntityList.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\EntityList.cpp > CMakeFiles\LogAnalyzer.dir\EntityList.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/EntityList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/EntityList.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\EntityList.cpp" -o CMakeFiles\LogAnalyzer.dir\EntityList.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\EntityList.cpp -o CMakeFiles\LogAnalyzer.dir\EntityList.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.obj: ../ExecutionTemplate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp" > CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp > CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/ExecutionTemplate.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp" -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplate.cpp -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplate.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.obj: ../ExecutionTemplateList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp" > CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp > CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/ExecutionTemplateList.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp" -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ExecutionTemplateList.cpp -o CMakeFiles\LogAnalyzer.dir\ExecutionTemplateList.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/main.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/main.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LogAnalyzer.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\main.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LogAnalyzer.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\main.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\main.cpp
 
 CMakeFiles/LogAnalyzer.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\main.cpp" > CMakeFiles\LogAnalyzer.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\main.cpp > CMakeFiles\LogAnalyzer.dir\main.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\main.cpp" -o CMakeFiles\LogAnalyzer.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\main.cpp -o CMakeFiles\LogAnalyzer.dir\main.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/MemMan.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/MemMan.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/MemMan.cpp.obj: ../MemMan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LogAnalyzer.dir/MemMan.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\MemMan.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\MemMan.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LogAnalyzer.dir/MemMan.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\MemMan.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\MemMan.cpp
 
 CMakeFiles/LogAnalyzer.dir/MemMan.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/MemMan.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\MemMan.cpp" > CMakeFiles\LogAnalyzer.dir\MemMan.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\MemMan.cpp > CMakeFiles\LogAnalyzer.dir\MemMan.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/MemMan.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/MemMan.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\MemMan.cpp" -o CMakeFiles\LogAnalyzer.dir\MemMan.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\MemMan.cpp -o CMakeFiles\LogAnalyzer.dir\MemMan.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/Node.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/Node.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/Node.cpp.obj: ../Node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LogAnalyzer.dir/Node.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Node.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Node.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LogAnalyzer.dir/Node.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Node.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Node.cpp
 
 CMakeFiles/LogAnalyzer.dir/Node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/Node.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Node.cpp" > CMakeFiles\LogAnalyzer.dir\Node.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Node.cpp > CMakeFiles\LogAnalyzer.dir\Node.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/Node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/Node.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Node.cpp" -o CMakeFiles\LogAnalyzer.dir\Node.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Node.cpp -o CMakeFiles\LogAnalyzer.dir\Node.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.obj: ../ScriptReader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ScriptReader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ScriptReader.cpp
 
 CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ScriptReader.cpp" > CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ScriptReader.cpp > CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/ScriptReader.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\ScriptReader.cpp" -o CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\ScriptReader.cpp -o CMakeFiles\LogAnalyzer.dir\ScriptReader.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.obj: ../StringOperations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\StringOperations.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\StringOperations.cpp
 
 CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\StringOperations.cpp" > CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\StringOperations.cpp > CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/StringOperations.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\StringOperations.cpp" -o CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\StringOperations.cpp -o CMakeFiles\LogAnalyzer.dir\StringOperations.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/Tests.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/Tests.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/Tests.cpp.obj: ../Tests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/LogAnalyzer.dir/Tests.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Tests.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Tests.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/LogAnalyzer.dir/Tests.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Tests.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Tests.cpp
 
 CMakeFiles/LogAnalyzer.dir/Tests.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/Tests.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Tests.cpp" > CMakeFiles\LogAnalyzer.dir\Tests.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Tests.cpp > CMakeFiles\LogAnalyzer.dir\Tests.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/Tests.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/Tests.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Tests.cpp" -o CMakeFiles\LogAnalyzer.dir\Tests.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Tests.cpp -o CMakeFiles\LogAnalyzer.dir\Tests.cpp.s
 
 CMakeFiles/LogAnalyzer.dir/Utils.cpp.obj: CMakeFiles/LogAnalyzer.dir/flags.make
 CMakeFiles/LogAnalyzer.dir/Utils.cpp.obj: CMakeFiles/LogAnalyzer.dir/includes_CXX.rsp
 CMakeFiles/LogAnalyzer.dir/Utils.cpp.obj: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/LogAnalyzer.dir/Utils.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Utils.cpp.obj -c "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Utils.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/LogAnalyzer.dir/Utils.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LogAnalyzer.dir\Utils.cpp.obj -c D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Utils.cpp
 
 CMakeFiles/LogAnalyzer.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LogAnalyzer.dir/Utils.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Utils.cpp" > CMakeFiles\LogAnalyzer.dir\Utils.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Utils.cpp > CMakeFiles\LogAnalyzer.dir\Utils.cpp.i
 
 CMakeFiles/LogAnalyzer.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LogAnalyzer.dir/Utils.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\Utils.cpp" -o CMakeFiles\LogAnalyzer.dir\Utils.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\Utils.cpp -o CMakeFiles\LogAnalyzer.dir\Utils.cpp.s
 
 # Object files for target LogAnalyzer
 LogAnalyzer_OBJECTS = \
@@ -802,7 +802,7 @@ LogAnalyzer.exe: CMakeFiles/LogAnalyzer.dir/build.make
 LogAnalyzer.exe: CMakeFiles/LogAnalyzer.dir/linklibs.rsp
 LogAnalyzer.exe: CMakeFiles/LogAnalyzer.dir/objects1.rsp
 LogAnalyzer.exe: CMakeFiles/LogAnalyzer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable LogAnalyzer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable LogAnalyzer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LogAnalyzer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -815,6 +815,6 @@ CMakeFiles/LogAnalyzer.dir/clean:
 .PHONY : CMakeFiles/LogAnalyzer.dir/clean
 
 CMakeFiles/LogAnalyzer.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer" "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer" "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug" "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug" "D:\99x\working log\Data-Extractor-Final\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles\LogAnalyzer.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug D:\99x\Log-file-data-visualization---Elasticsearch-Kibana\log-data-extracter\LogAnalyzer\cmake-build-debug\CMakeFiles\LogAnalyzer.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/LogAnalyzer.dir/depend
 

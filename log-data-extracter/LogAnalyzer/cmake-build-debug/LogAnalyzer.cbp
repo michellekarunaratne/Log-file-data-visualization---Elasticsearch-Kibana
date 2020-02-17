@@ -8,24 +8,24 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
+				<Option working_dir="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LogAnalyzer">
-				<Option output="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/LogAnalyzer.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
+				<Option output="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/LogAnalyzer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/."/>
-					<Add directory="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL"/>
+					<Add directory="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/."/>
+					<Add directory="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -34,21 +34,21 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogAnalyzer"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogAnalyzer"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LogAnalyzer/fast">
-				<Option output="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/LogAnalyzer.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
+				<Option output="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/LogAnalyzer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/."/>
-					<Add directory="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL"/>
+					<Add directory="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/."/>
+					<Add directory="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -57,343 +57,343 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogAnalyzer/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogAnalyzer/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
+				<Option working_dir="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
+				<Option working_dir="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/AdditionalFunctions.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/AdditionalFunctions.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Bool.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Bool.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Bool.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Bool.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/CPlusPlusEntry.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/CPlusPlusEntry.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/CPlusPlusEntry.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/CPlusPlusEntry.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Command.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Command.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Command.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Command.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/CommonIncludes.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/CommonIncludes.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/DefFileReader.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/DefFileReader.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/DefFileReader.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/DefFileReader.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Defs.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Defs.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Entity.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Entity.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/EntityList.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/EntityList.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/EntityList.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/EntityList.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ExecutionContext.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ExecutionContext.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ExecutionTemplate.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ExecutionTemplate.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ExecutionTemplate.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ExecutionTemplate.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ExecutionTemplateList.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ExecutionTemplateList.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ExecutionTemplateList.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ExecutionTemplateList.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Int.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Int.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBasicVariableParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBasicVariableParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBasicVariableParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBasicVariableParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockElement.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockElement.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockElement.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockElement.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplate.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplate.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplate.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplate.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplateParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplateParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplateParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELBlockTemplateParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELCompositeVariableParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELCompositeVariableParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELCompositeVariableParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELCompositeVariableParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELConstantString.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELConstantString.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELConstantString.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELConstantString.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELFillerString.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELFillerString.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELFillerString.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELFillerString.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELFloat.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELFloat.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELFloat.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELFloat.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretedElement.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretedElement.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretedElement.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretedElement.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretter.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretter.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretter.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretter.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretterJSON.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretterJSON.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELInterpretterJSON.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELInterpretterJSON.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELJSON.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELJSON.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELJSON.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELJSON.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineParserResult.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineParserResult.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineParserResult.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineParserResult.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplate.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplate.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplate.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplate.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplateParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplateParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplateParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLineTemplateParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELListParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELListParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELListParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELListParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLogFileFilter.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLogFileFilter.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELLogFileFilter.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELLogFileFilter.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapper.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapper.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapper.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapper.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapperJSON.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapperJSON.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapperJSON.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNodeWrapperJSON.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNumber.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNumber.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELNumber.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELNumber.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELParserResult.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELParserResult.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELParserResult.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELParserResult.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSequenceBlockElement.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSequenceBlockElement.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSequenceBlockElement.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSequenceBlockElement.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSequenceVar.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSequenceVar.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSequenceVar.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSequenceVar.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSingularBlockElement.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSingularBlockElement.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSingularBlockElement.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSingularBlockElement.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSpacesString.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSpacesString.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELSpacesString.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELSpacesString.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELString.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELString.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELString.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELString.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELStringLiteralParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELStringLiteralParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELStringLiteralParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELStringLiteralParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELText.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELText.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELText.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELText.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELVariable.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELVariable.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELVariable.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELVariable.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELVariableParser.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELVariableParser.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/LDEL/ELVariableParser.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/LDEL/ELVariableParser.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/MemMan.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/MemMan.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/MemMan.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/MemMan.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/MetaData.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/MetaData.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Node.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Node.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Node.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Node.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Null.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Null.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ProcessLog.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ProcessLog.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ScriptReader.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ScriptReader.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/ScriptReader.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/ScriptReader.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/StringOperations.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/StringOperations.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/StringOperations.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/StringOperations.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Tests.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Tests.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Tests.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Tests.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/TypeDefs.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/TypeDefs.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Utils.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Utils.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Utils.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Utils.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/Value.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/Value.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/main.cpp">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/main.cpp">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/targetver.h">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/targetver.h">
 			<Option target="LogAnalyzer"/>
 		</Unit>
-		<Unit filename="D:/99x/working log/Data-Extractor-Final/log-data-extracter/LogAnalyzer/CMakeLists.txt">
+		<Unit filename="D:/99x/Log-file-data-visualization---Elasticsearch-Kibana/log-data-extracter/LogAnalyzer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
